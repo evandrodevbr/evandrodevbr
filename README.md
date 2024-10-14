@@ -40,10 +40,6 @@ I am in constant learning and improvement, always seeking new technologies and a
 - ⚡ Fun fact: I use tabs over spaces  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
