@@ -114,6 +114,3 @@ I am in constant learning and improvement, always seeking new technologies and a
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
