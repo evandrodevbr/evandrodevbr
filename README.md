@@ -28,7 +28,7 @@ I am in constant learning and improvement, always seeking new technologies and a
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Apolo Energia](https://apoloenergia.com.br/)   
+- 🔭 I’m currently working on [Apolo Energia](https://apoloenergia.com.br/) and [Innovo Tecnologia](https://otimusclinic.com/)
   
 
 - 🌱 I’m currently learning Java and Kotlin  
