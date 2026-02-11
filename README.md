@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Evandro Fonseca Junior
 
-**Full-Stack Developer | Cloud Computing & AI Enthusiast | Computer Engineering Graduate**
+**Full-Stack Developer | Cloud & AI Architect | Computer Engineering Graduate**
 
 <div align="center">
 
@@ -13,50 +13,50 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hey there! I'm Evandro, a **Full-Stack Developer** who fell in love with code during my Computer Engineering studies. What started as curiosity about how websites work has turned into a 2+ year journey of building things that actually matter.
+I am a **Full-Stack Developer and Computer Engineer** blending **4 years of software development** experience with nearly a **decade of deep hardware expertise**. This dual perspective allows me to understand systems from the bare metal up to the cloud infrastructure, delivering highly optimized and resource-efficient solutions.
 
-I'm the kind of developer who gets excited about solving real problems – whether it's optimizing a database query that was driving everyone crazy or creating a user interface that makes someone's day a little easier. My sweet spot is working with **cloud technologies** and exploring how **AI** can make our applications smarter.
+I build robust, production-ready applications tailored to solve real business bottlenecks. Whether it's reducing latency through advanced database query optimization, architecting scalable cloud ecosystems, or integrating AI to automate workflows, my focus is always on performance and tangible ROI.
 
-Right now, I'm diving deep into **Java** and **Kotlin** because I want to bring my backend skills to mobile development. There's something satisfying about building apps that people carry in their pockets every day.
-
-**Where you'll find me working:**
-
-- 🏢 **[Apolo Energia](https://apoloenergia.com.br/)** - Building energy solutions that matter
-- 🏢 **[Innovo Tecnologia](https://otimusclinic.com/)** - Creating healthcare tech that helps people
+Currently, I am expanding my ecosystem by diving deep into **Java** and **Kotlin**, bringing my backend architectural standards to the mobile development landscape.
 
 ---
 
-## What I'm Up To
+## 🚀 What I Deliver (Services & Expertise)
+
+If you are a recruiter looking for a solid engineering background or a business needing technical solutions, here is what I bring to the table:
+
+* ⚡ **High-Performance Backend:** Scalable APIs, microservices, and complex database management (SQL/NoSQL).
+* 🧠 **AI & Automation:** Integrating LLMs and machine learning APIs to make applications smarter and reduce operational costs.
+* ☁️ **Cloud Architecture:** Deploying resilient, highly-available infrastructure (AWS, Docker, Linux servers).
+* 📱 **End-to-End Delivery:** From infrastructure setup and custom UI design to final deployment and monitoring.
+
+---
+
+## 📊 Current Status
 
 <div align="center">
 
-|                     🏢 **Currently Working**                      |               🌱 **Learning**                |             💡 **Specializing**              |                   🚀 **Exploring**                   |
-| :---------------------------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
-| Enterprise solutions at **Apolo Energia** & **Innovo Tecnologia** | **Java** & **Kotlin** for mobile development | **Laravel & PHP** stack with modern frontend | **Cloud computing** & **AI integration** in web apps |
+| 💼 **Currently Working On** | 🌱 **Learning** | 💡 **Specializing** | 🚀 **Exploring** |
+| :---: | :---: | :---: | :---: |
+| Enterprise & Freelance Full-Stack Solutions | **Java** & **Kotlin** for scalable mobile apps | **Laravel, Next.js** & Cloud Architecture | **AI-driven** workflows & system automation |
 
 </div>
 
 <div align="center">
 
-### 🎯 **Current Projects**
+### 🎯 **Focus**
+Building robust enterprise solutions and custom software for clients across various sectors.
 
-Building robust enterprise solutions that make a real difference in energy and healthcare sectors
-
-### 📚 **Learning Journey**
-
-Expanding my backend expertise into mobile development with Java and Kotlin
-
-### 🔧 **Tech Focus**
-
-Deep diving into Laravel ecosystem while exploring AI-powered web applications
+### 📚 **Journey**
+Bridging a 10-year hardware background with modern, high-concurrency web and mobile software.
 
 </div>
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Frontend Development
 
@@ -118,7 +118,7 @@ Deep diving into Laravel ecosystem while exploring AI-powered web applications
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -147,22 +147,22 @@ Deep diving into Laravel ecosystem while exploring AI-powered web applications
 
 ---
 
-## Let's Connect! 🤝
+## 🤝 Let's Connect! 
 
 <div align="center">
 
-### 💬 **Always Open to Chat**
+### 💬 **Have a project in mind or looking for a tech partner?**
 
-I'm always excited to discuss new opportunities, innovative projects, and collaboration possibilities. Whether you want to talk tech, share ideas, or just say hi – I'd love to hear from you!
+Whether you need a full-scale enterprise application, a system integration, or want to discuss architectural challenges, my inbox is open. Let's build something scalable.
 
 </div>
 
 <div align="center">
 
-|                                                                  🌐 **Website**                                                                   |                                                                               💼 **Professional**                                                                               |                                                                         📱 **Social**                                                                          |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 🌐 **Website** | 💼 **Professional** | 📱 **Social** |
+| :---: | :---: | :---: |
 | [![Website](https://img.shields.io/badge/website-evandro.dev.br-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://evandro.dev.br) | [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evandro-fonseca-junior-0969aa1b0) | [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evandro.dev.br) |
-| [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrodevbr)  |                                                                                                                                                                                 |                                                                                                                                                                |
+| [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/evandrodevbr) | | |
 
 </div>
 
